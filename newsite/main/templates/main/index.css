@@ -2,52 +2,7 @@
 margin: 0; padding: 0;
 
 }
-body {
-    cursor: pointer; background-image: url(https://scu.com.ua/image/catalog/blog/kak-ustanoviti-condicioner.jpg); background-size: cover;
-    
-}
-#zagalovok, #kontakti {
-    text-align:center; 
-    width: 100%;
-    height: 50px;
-    border-bottom: 5px solid silver;
-    margin-bottom: 50px;
-    font-size: 32px;
-    font-family: 'Anton', sans-serif;
-    line-height: 50px;
-    font-weight:bolder
-}
-#katalog {
-    float: left;
-    
-    
-   display: block;
-    font-size: 25px;
-    text-align: right;
-    
-}
-
-#kontakti {
-   
-    margin-bottom: 0;
-    margin-top: 656px;
-    border-bottom: 0;
-    border-top: 5px solid silver;
-}
-#profile {float: right ;
-    
-    
-   
-    display: block;
-    font-size: 25px;
-   text-align: left;
-}
-
-#osnova{ float:right;
-    width: 100%;
-
-    text-align:center;
-    font-size: 25px;
-    display: block;
-    margin-top: 50px;
+/*huita test*/
+#рабочий-стол {
+    margin: 0; padding: 0;
 }
